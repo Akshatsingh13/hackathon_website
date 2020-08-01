@@ -1,2 +1,2 @@
 # hackathon_website
-Blah blah
+This is a website for hackathon.
